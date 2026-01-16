@@ -1,3 +1,5 @@
+"use strict";
+
 const id = "1234"
 
 console.log("user id is: " + id)
@@ -16,10 +18,10 @@ console.log("account id is: " + accountcity)
 let accountema;
 
 account_id = 200
- Email= "harry@gmai.com"
+Email = "harry@gmai.com"
 accountemail = "qqq@gmil.com"
- accountpassword= "124"
- "use strict";
+accountpassword = "124"
+
 console.table({account_id, Email, accountemail, accountpassword, accountcity, accountema})
 
 console.log(typeof account_id)
